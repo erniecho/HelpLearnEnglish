@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Help Learn English</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_btn_rec_word">Answer Word</string>
+    <string name="str_btn_play_word">Play Back Word</string>
+    <string name="str_btn_next">Next</string>
+</resources>
