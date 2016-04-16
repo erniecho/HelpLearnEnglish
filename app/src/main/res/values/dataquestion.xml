@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //questions place here
+    <string name="question0">monkfish , monk·fish</string>
+    <string name="question1">mackerel , mack·er·el</string>
+    <string name="question2">trout , ˈtrau̇t</string>
+    <string name="question3">swordfish , sword·fish</string>
+    <string name="question4">whiting ,  whit·ing</string>
+    <string name="question5">sardine , sar·dine</string>
+</resources>
